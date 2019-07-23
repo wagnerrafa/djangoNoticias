@@ -1,0 +1,37 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    display: contents;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    font-size: 2rem;
+    color: red;
+    margin:40px 80px 40px 80px;
+}
+h5{
+    font-size: 1.2rem;
+    margin: 30px;
+}
+main{
+    display:grid;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    width: 200px;
+    background-color: black;
+    opacity: 0.6;
+    justify-content: center;
+    justify-items: center;
+    color: red;
+}
+a{
+   
+}
